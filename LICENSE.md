@@ -23,4 +23,4 @@ SOFTWARE.
 ---
 
 **Author**: Jomer Augustin Ventolero 
-**LinkedIn**: [Your LinkedIn Profile URL]
+**LinkedIn**: [Jomer Augustin Ventolero](https://www.linkedin.com/in/jomer-augustin-ventolero)
